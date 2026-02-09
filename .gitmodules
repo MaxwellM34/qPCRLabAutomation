@@ -1,0 +1,8 @@
+[submodule "api/external/primerPlus"]
+	path = api/external/primerPlus
+	url = https://github.com/MaxwellM34/primerPlus.git
+	branch = main
+[submodule "api/external/PrimeSpecPCR"]
+	path = api/external/PrimeSpecPCR
+	url = https://github.com/MaxwellM34/PrimeSpecPCR
+	branch = main
